@@ -2,8 +2,6 @@
 
 ## Project Report for DSCI D699: Graduate Independent Study in Data Science
 
-**Author:** Krishna Teja Jillelamudi
-
 This project aims to enhance the data processing practices for organizational datasets, with a specific focus on federal grants linked to the National Science Foundation (NSF) in the USA.
 
 ---
