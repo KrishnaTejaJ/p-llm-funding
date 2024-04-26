@@ -1,0 +1,20 @@
+Organisation,Reason,Sample
+NSF Grant from the US National Science Foundation,Contains both 'NSF' and 'National Science Foundation',sample_1
+NSF-ELT program,Contains 'NSF' in the name,sample_1
+NSF Aeronomy Program,Contains 'NSF' in the name,sample_1
+National Science Foundation NRT,Contains 'National Science Foundation' in the name,sample_1
+National Science Foundation LTER program,Contains 'National Science Foundation' in the name,sample_1
+National Science Foundation ADVANCE grant,Contains 'National Science Foundation' in the name,sample_1
+NSF MWN,Contains 'NSF' in the name,sample_1
+Division of Engineering Education and Centers,Part of the NSF based on the context and other entries,sample_1
+project of national science and technology supporting plan,"Contains 'national science' in the name, which might be related to the National Science Foundation",sample_2
+National High Magnetic Field Laboratory through the NSF,Contains 'NSF' in the name,sample_3
+National Science Foundation and Environmental Protection Agency program Networks for Sustainable Material Synthesis and Design,Contains 'National Science Foundation' in the name,sample_3
+NSF at Northwestern University,Contains 'NSF' in the name,sample_3
+U.S.National Science Foundation (NSF),Contains both 'National Science Foundation' and 'NSF',sample_3
+National Science Foundation through the Nanoscale Science and Engineering Center,Contains 'National Science Foundation' in the name,sample_3
+National Natural Science Foundation of China excellent university young scholar fund of Guangdong province,"Contains 'National' and 'Science Foundation' in the name, but refers to a Chinese organization, not the U.S. NSF",sample_3
+NSF/SHINE grant,"Contains 'NSF' in the name, likely affiliated with the National Science Foundation",sample_5
+NSF CCR,"Contains 'NSF' in the name, likely affiliated with the National Science Foundation",sample_6
+National Institutes of Health from the National Science Foundation,Explicitly mentions 'National Science Foundation',sample_6
+National Science Foundation though PENN MRSEC,"Contains 'National Science Foundation' in the name, likely affiliated with the NSF",sample_6
